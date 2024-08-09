@@ -8,3 +8,4 @@ Pronouns: He/Him
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,gamemakerstudio,godot,mint,nodejs,robloxstudio,vscode)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZarmDev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#show-more-languages)
+[![ZarmDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZarmDev)](https://github.com/anuraghazra/github-readme-stats)
