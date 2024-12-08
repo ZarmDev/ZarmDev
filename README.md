@@ -1,7 +1,7 @@
 ### What's up?
 Here's my portfolio: https://zarmdev.github.io/Portfolio/
 
-Pronouns: He/Him
+Here's my itch io account (check out my games!): https://dev41.itch.io/
 
 My motto: Everything should be written in Javascript 💀
 
