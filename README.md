@@ -3,7 +3,7 @@ Here's my portfolio: https://zarmdev.github.io/Portfolio/
 
 Here's my itch io account (check out my games!): https://dev41.itch.io/
 
-My motto: Everything should be written in Javascript 💀
+My motto: Everything should be written in Javascript 😼
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,cpp,java,raspberrypi,py,gamemakerstudio,godot,mint,arduino,neovim,robloxstudio,prisma)](https://skillicons.dev)
 
